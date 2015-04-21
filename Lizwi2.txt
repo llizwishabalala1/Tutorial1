@@ -1,0 +1,4 @@
+1 ls -r
+2 (A)If the file name is file.txt, we use head -25 file.txt.
+  (B) sed -n '16, 25p' practice test
+3 man -k
